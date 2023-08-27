@@ -1,0 +1,13 @@
+{
+  "basic": {
+    "cpu": "Snapdragon 678",
+    "battery": "5000mAh",
+    "camera": "48MP+8MP+2MP+2MP",
+    "screen": "6.43″ AMOLED",
+    "resolution": "2400×1080"
+  },
+  "camera": {
+    "front_camera": "13MP",
+    "rear_camera": "48MP+8MP+2MP+2MP"
+  }
+}
